@@ -11,4 +11,4 @@ This will recursively download all the files from the given url,
     'txt', 'gz', 'lst', '7z', 'zip', 'rar','bzip', 'gzip', 'png', 'jpg', 'db'
     ]
 
-Important NOTE : This tool creates a dir in the working dir for any target provided to avoid filename collisions.
+NOTE : This version creates a directory in the working dir for every target provided.
